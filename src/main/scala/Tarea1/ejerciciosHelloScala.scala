@@ -77,3 +77,17 @@ object ejerciciosHelloScala extends App {
   printObjectTypes(arreglo_personas)
 
 }
+
+/** Output: **/
+
+/*
+H
+s
+9415087488
+4
+(2,100)
+Abimael es un Alumno
+Susana es un Oyente
+Juan es un Profesor
+Cecilia es un Alumno
+*/
